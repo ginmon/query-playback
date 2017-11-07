@@ -1,4 +1,6 @@
-# Copyright (c) 2017 Ginmon, GmbH, Inc.
+# Copyright (c) 2017 Ginmon, GmbH.
+#
+# inspired heavily by general_log plugin Copyright (c) 2017 Dropbox, Inc.
 #
 # Redistribution and use in source and binary forms, with or without modification,
 # are permitted provided that the following conditions are met:
