@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibpercona-playback.a  CMakeFiles/libpercona-playback.dir/plugin.cc.o CMakeFiles/libpercona-playback.dir/percona_playback.cc.o
-/usr/bin/ranlib liblibpercona-playback.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libgeneral_log.a  CMakeFiles/general_log.dir/parse_general_log.cc.o CMakeFiles/general_log.dir/general_log_entry.cc.o CMakeFiles/general_log.dir/general_log.cc.o
-/usr/bin/ranlib libgeneral_log.a

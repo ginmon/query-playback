@@ -1,2 +1,0 @@
-/usr/bin/ar qc libthread_per_connection.a  CMakeFiles/thread_per_connection.dir/thread_per_connection.cc.o
-/usr/bin/ranlib libthread_per_connection.a
