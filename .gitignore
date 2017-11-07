@@ -10,6 +10,7 @@ doxygen/header.html
 percona_playback/plugin_load_list.h
 *.lo
 *.la
+build_dir/*
 bin/percona-playback
 percona_playback/test/basic
 percona_playback/test/help
