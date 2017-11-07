@@ -1,0 +1,2 @@
+/usr/bin/ar qc libquery_log.a  CMakeFiles/query_log.dir/query_log.cc.o
+/usr/bin/ranlib libquery_log.a

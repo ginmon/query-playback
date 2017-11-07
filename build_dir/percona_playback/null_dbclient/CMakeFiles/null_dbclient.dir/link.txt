@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnull_dbclient.a  CMakeFiles/null_dbclient.dir/null_dbclient.cc.o
+/usr/bin/ranlib libnull_dbclient.a

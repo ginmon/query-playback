@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//percona_playback/percona_playback.h
+percona_playback/visibility.h
+../percona_playback/percona_playback/visibility.h
+
+..//percona_playback/visibility.h
+
+/home/usman/dev/query-playback/percona_playback/test/help.cc
+config.h
+/home/usman/dev/query-playback/percona_playback/test/config.h
+iostream
+-
+string
+-
+cstring
+-
+assert.h
+-
+percona_playback/percona_playback.h
+-
+
+config.h
+stdint.h
+-
+

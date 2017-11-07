@@ -26,6 +26,7 @@
 #include "version.h"
 #include "query_log/query_log.h"
 #include "general_log/general_log.h"
+#include "audit_log/audit_log.h"
 
 #include <boost/program_options.hpp>
 #include <boost/program_options/parsers.hpp>

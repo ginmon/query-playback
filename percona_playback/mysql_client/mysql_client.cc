@@ -32,7 +32,7 @@ public:
     host("127.0.0.1"),
     user("root"),
     password(""),
-    schema("test"),
+    schema(""),
     socket("/var/lib/mysql/mysql.sock"),
     port(3306),
     max_retries(9)

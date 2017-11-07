@@ -23,6 +23,7 @@
 
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/percona_playback")
 include(plugin)
+find_package(MySQL REQUIRED)
 
 find_file(MYSQL_INC "mysql.h" PATH_SUFFIXES "mysql")
 get_filename_component(MYSQL_INC ${MYSQL_INC} PATH)

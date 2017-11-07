@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdb_thread.a  CMakeFiles/db_thread.dir/db_thread.cc.o
+/usr/bin/ranlib libdb_thread.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfull_report.a  CMakeFiles/full_report.dir/full_report.cc.o
+/usr/bin/ranlib libfull_report.a

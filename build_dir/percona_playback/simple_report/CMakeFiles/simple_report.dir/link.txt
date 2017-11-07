@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimple_report.a  CMakeFiles/simple_report.dir/simple_report.cc.o
+/usr/bin/ranlib libsimple_report.a
